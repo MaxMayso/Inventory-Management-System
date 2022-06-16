@@ -6,3 +6,6 @@ Bananas
 Grapes
 Lettuce
 Cereal
+
+beans
+Pizza
